@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import ImageGrid from "./components/imageGrid";
 
-// cd C:\Users\xmobl\Documents\GitRepos\smash-select
+// cd C:\Users\xmobl\Documents\GitRepos\UCIMelee.github.io\smash-select
 
 // Note: Each react-boostrap image button should be its own component.
 // Component to show all 6 image buttons in a grid
